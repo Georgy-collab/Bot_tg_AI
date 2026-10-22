@@ -1,2 +1,4 @@
+aiogram
+aiohttp-socks
 requests
 python-dotenv
